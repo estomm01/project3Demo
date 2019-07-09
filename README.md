@@ -19,9 +19,17 @@ View a live example here:
 
 ### Technologies Used
 
-###Front-end:
+### Front-end:
+* React
+* Axios
 
-###Contributers
+
+### Backend:
+* Node/Express
+* MongoDB/Mongoose
+* OKTA
+
+### Contributers
 
 
 
