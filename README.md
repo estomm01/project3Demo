@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Habit 21
+
+Habit Tracker helps you learn the most effective process, increase self-awareness and set priorities so achieving your goals is easier than ever. It is a tool that enables you to build good habits by tracking them.
+Habits shape your life!
+40 percent of your actions are not conscious decisions but habits. So habits are a big part of your life - and a lot of the time you don’t even notice it!
+
+Interesting facts about Habits
+*Your life is to a large extent the sum of all your habits – good or bad.
+*You can take control of your life by changing your habits.
+*Habits never truly disappear. They are just overpowered by other habits.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -27,4 +38,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Habit 21
