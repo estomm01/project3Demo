@@ -29,7 +29,12 @@ View a live example here:
 * MongoDB/Mongoose
 * OKTA
 
-### Contributers
+### Contributers:
+* Markus Maasikas
+* Mihir Patel
+* Evan Ahmed
+* Joey Sucameli
+* RJ
 
 
 
